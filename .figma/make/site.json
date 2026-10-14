@@ -1,0 +1,10 @@
+{
+  "description": "Discover and manage movies and TV shows effortlessly with a sleek macOS-style interface, featuring intuitive search, detailed views, and seamless downloads.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
